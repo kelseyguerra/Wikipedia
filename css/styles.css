@@ -19,6 +19,11 @@ background-color: #cef2e0;
 border: 1px solid #a3bfb1;
 margin-top: 10px;
 }
+
+h3 {
+  margin-left: 10px;
+  margin-top: 5px;
+}
 .inthenews {
   border: solid 1px #bbb;
   background-color: #cedff2;
@@ -50,4 +55,16 @@ margin-top: 10px;
   border: solid 1px #a3b0bf;
   background-color: #f5faff;
   margin-top: 10px;
+}
+.goat {
+  float: right;
+  margin-top: 10px;
+}
+.stephen {
+  float: right;
+  margin-top: 10px;
+}
+.death {
+  float: right;
+  margin-top: 20px;
 }
