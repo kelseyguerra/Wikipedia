@@ -17,9 +17,12 @@
 border: solid 1px #bbb;
 background-color: #cef2e0;
 border: 1px solid #a3bfb1;
+margin-top: 10px;
 }
 .inthenews {
   border: solid 1px #bbb;
+  background-color: #cedff2;
+  margin-top: 10px;
 }
 
 .links {
@@ -30,4 +33,21 @@ border: 1px solid #a3bfb1;
   border: solid 1px #bbb;
   background-color: #cef2e0;
   border: 1px solid #a3bfb1;
+}
+
+.onthisday {
+  border: solid 1px #bbb;
+  background-color: #cedff2;
+}
+
+.leftbox {
+    border: solid 1px #bbb;
+    background-color: #f5fffa;
+    margin-top: 10px;
+}
+
+.rightbox {
+  border: solid 1px #a3b0bf;
+  background-color: #f5faff;
+  margin-top: 10px;
 }
