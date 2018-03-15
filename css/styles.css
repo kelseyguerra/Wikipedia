@@ -58,13 +58,20 @@ h3 {
 }
 .goat {
   float: right;
-  margin-top: 10px;
-}
-.stephen {
-  float: right;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .death {
   float: right;
-  margin-top: 20px;
+  margin-top: 10px;
+}
+figure {
+  float: right;
+  margin-top: 10px;
+}
+.well {
+  float: left;
+}
+
+.logo {
+  max-width: 100%;
 }
