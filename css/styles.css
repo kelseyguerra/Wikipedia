@@ -49,12 +49,15 @@ h3 {
     border: solid 1px #bbb;
     background-color: #f5fffa;
     margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 4px;
 }
 
 .rightbox {
   border: solid 1px #a3b0bf;
   background-color: #f5faff;
   margin-top: 10px;
+  margin-left: 4px;
 }
 .goat {
   float: right;
@@ -74,4 +77,5 @@ figure {
 
 .logo {
   max-width: 100%;
+  margin-bottom: 30px;
 }
