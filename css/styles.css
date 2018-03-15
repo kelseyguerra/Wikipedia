@@ -13,3 +13,21 @@
   background: #f9f9f9;
   border: solid 1px #ddd;
 }
+.featured {
+border: solid 1px #bbb;
+background-color: #cef2e0;
+border: 1px solid #a3bfb1;
+}
+.inthenews {
+  border: solid 1px #bbb;
+}
+
+.links {
+  margin-top: 30px;
+}
+
+.didyouknow {
+  border: solid 1px #bbb;
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+}
